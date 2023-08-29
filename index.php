@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+echo '<!DOCTYPE html>
 <html>
 <head>
     <title>Ma page web</title>
@@ -6,4 +6,4 @@
 <body>
     <h1>Hello, World!</h1>
 </body>
-</html>
+</html>'
